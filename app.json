@@ -17,8 +17,8 @@
       "required": false
     },
     "REPO_URL": {
-      "description": "URL of the REPO that you want to deploy.",
-      "value": ""
+      "description": "https://github.com/maple3142/aria2c-ariang",
+      "value": "https://github.com/maple3142/aria2c-ariang"
     },
     "PYTHON_FILE": {
       "description": "Name of the python file that you need to run. [use -m if you need to run __main__.py from a folder]",
